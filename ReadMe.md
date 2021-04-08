@@ -7,6 +7,7 @@
 [破船之家](http://beyondvincent.com/atom.xml)  
 [唐巧的博客](http://blog.devtang.com/)  
 念茜的博客:[CSDN(停更了)](https://blog.csdn.net/yiyaaixuexi/rss/list) [个人博客（打不开了）](http://nianxi.net/feed.xml)  
+[知识小集成员康祖彬](https://kangzubin.com/)
 
 ### 大厂技术博客
 [苹果核（好久没更新了）](http://pingguohe.net/)  
