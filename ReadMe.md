@@ -1,17 +1,67 @@
 ## 说明文档
 ### 大神博客链接
-[draven德莱文的为什么这么设计](https://draven.co/whys-the-design/)  
-[反革命工程师（iOS架构师）casatwy的博客](https://casatwy.com/archives.html)  
-[YYKit作者郭曜源博客](http://blog.ibireme.com/)  
-[喵神](https://onevcat.com/)  
-[破船之家](http://beyondvincent.com/atom.xml)  
-[唐巧的博客](http://blog.devtang.com/)  
-念茜的博客:[CSDN(停更了)](https://blog.csdn.net/yiyaaixuexi/rss/list) [个人博客（打不开了）](http://nianxi.net/feed.xml)  
-[知识小集成员康祖彬](https://kangzubin.com/)
+#### Draveness
+个人博客：https://draven.co/  
+github：https://github.com/draveness  
+知乎：https://www.zhihu.com/people/draveness  
+简书：https://www.jianshu.com/u/f6a6e56e261e  
+公众号: 真没什么逻辑  
+
+#### casatwy
+反革命工程师（iOS架构师）  
+个人博客：https://casatwy.com/   
+github：http://github.com/casatwy  
+
+#### 郭曜源
+YYKit作者，就职于优酷土豆  
+个人博客：http://blog.ibireme.com/ 
+
+#### 猫神
+个人博客：https://onevcat.com/  
+github：https://github.com/onevcat  
+微博：https://www.weibo.com/onevcat  
+
+#### 破船之家
+个人博客：http://www.beyondvincent.com/  
+
+#### 唐巧
+个人博客：http://blog.devtang.com/  
+微博：https://weibo.com/tangqiaoboy  
+知乎：https://www.zhihu.com/people/tangqiao  
+
+#### 念茜
+支付宝程序  
+CSDN：https://blog.csdn.net/yiyaaixuexi  
+个人博客：http://nianxi.net/feed.xml  
+
+#### 康祖彬
+个人博客：https://kangzubin.com  
+
+#### bang
+毕业于华南师范大学，JSPatch作者  
+个人博客：http://blog.cnbang.net/  
+
+#### 戴铭
+滴滴出行技术专家。最近正在研究 iOS 编译相关底层技术，用来解决工程优化问题。  
+博客：http://www.starming.com/  
+简书：https://www.jianshu.com/u/9a4903d7e3d1  
+小专栏：https://xiaozhuanlan.com/u/starming  
+
+#### MrPeak杂货铺 
+曾就职于阿里巴巴  
+知乎专栏：https://zhuanlan.zhihu.com/mrpeak  
+公众号：MrPeakTech  
+
+#### 故胤道长：
+亚马逊 iOS 工程师，曾就职于 Uber 
+简书：https://www.jianshu.com/u/8d5b91490ca5  
+知乎：https://www.zhihu.com/people/soapyigu  
+微博：https://weibo.com/soapyigu  
+小专栏：https://xiaozhuanlan.com/u/7535563233  
 
 ### 大厂技术博客
 [苹果核（好久没更新了）](http://pingguohe.net/)  
-[美团技术团队](https://tech.meituan.com/)
+[美团技术团队](https://tech.meituan.com/)  
 
 
 ### 程序爱逛的公众号
