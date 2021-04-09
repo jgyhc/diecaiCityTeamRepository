@@ -129,11 +129,16 @@ GithubDaily：专注于分享 GitHub 上知名的 Python、Java、Web、AI、数
 老司机iOS周报：每周定期整理与发布业界资讯、开发工具、开源代码、学习资料、求职招聘信息。[掘金](https://juejin.cn/post/6844903789330186248)  
 SwiftGG翻译组：每天推送一篇精品Swift文章，无偿翻译，共同学习。
 
-### 程序常用的网站
-[精品MAC应用分享](https://xclient.info/)  
-[史蒂芬周的博客](http://www.sdifen.com/)
+### iOS学习的网站
+objc Talk：https://www.objc.io/  
+ObjC 中国：https://objccn.io/  
+http://www.cocoachina.com/  
+https://leetcode-cn.com/  
+
 
 ### 常用工具
+[精品MAC应用分享](https://xclient.info/)  
+[史蒂芬周的博客](http://www.sdifen.com/)
 [tools](https://u.tools/):你的生产力工具集，自由集成丰富插件，快速匹配「场景功能」，用完即走  
 [在线绘图工具processon](https://www.processon.com/):免费在线作图、实时协作，支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等  
 [LSUnusedResources](https://github.com/tinymind/LSUnusedResources)：快速找到项目里的没用的图片资源  
