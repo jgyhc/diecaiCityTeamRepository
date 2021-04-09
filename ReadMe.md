@@ -1,63 +1,120 @@
 ## 说明文档
 ### 大神博客链接
-#### Draveness
+##### Draveness
 个人博客：https://draven.co/  
 github：https://github.com/draveness  
 知乎：https://www.zhihu.com/people/draveness  
 简书：https://www.jianshu.com/u/f6a6e56e261e  
 公众号: 真没什么逻辑  
 
-#### casatwy
+##### casatwy
 反革命工程师（iOS架构师）  
 个人博客：https://casatwy.com/   
 github：http://github.com/casatwy  
 
-#### 郭曜源
+##### 郭曜源
 YYKit作者，就职于优酷土豆  
 个人博客：http://blog.ibireme.com/ 
 
-#### 猫神
+##### 猫神
 个人博客：https://onevcat.com/  
 github：https://github.com/onevcat  
 微博：https://www.weibo.com/onevcat  
 
-#### 破船之家
+##### 破船之家
 个人博客：http://www.beyondvincent.com/  
 
-#### 唐巧
+##### 唐巧
 个人博客：http://blog.devtang.com/  
 微博：https://weibo.com/tangqiaoboy  
 知乎：https://www.zhihu.com/people/tangqiao  
 
-#### 念茜
+##### 念茜
 支付宝程序  
 CSDN：https://blog.csdn.net/yiyaaixuexi  
 个人博客：http://nianxi.net/feed.xml  
 
-#### 康祖彬
+##### 康祖彬
 个人博客：https://kangzubin.com  
 
-#### bang
+##### bang
 毕业于华南师范大学，JSPatch作者  
 个人博客：http://blog.cnbang.net/  
 
-#### 戴铭
+##### 戴铭
 滴滴出行技术专家。最近正在研究 iOS 编译相关底层技术，用来解决工程优化问题。  
 博客：http://www.starming.com/  
 简书：https://www.jianshu.com/u/9a4903d7e3d1  
 小专栏：https://xiaozhuanlan.com/u/starming  
 
-#### MrPeak杂货铺 
+##### MrPeak杂货铺 
 曾就职于阿里巴巴  
 知乎专栏：https://zhuanlan.zhihu.com/mrpeak  
 公众号：MrPeakTech  
 
-#### 故胤道长：
+##### 故胤道长
 亚马逊 iOS 工程师，曾就职于 Uber 
 简书：https://www.jianshu.com/u/8d5b91490ca5  
 知乎：https://www.zhihu.com/people/soapyigu  
 微博：https://weibo.com/soapyigu  
 小专栏：https://xiaozhuanlan.com/u/7535563233  
+
+##### 没故事的卓同学
+丁香园 iOS 工程师  
+简书：https://www.jianshu.com/u/88a056103c02  
+微博：https://weibo.com/u/1926303682?nick=%E6%B2%A1%E6%95%85%E4%BA%8B%E7%9A%84%E5%8D%93%E5%90%8C%E5%AD%A6  
+知乎：https://www.zhihu.com/people/ling-hu-cong-25/following/questions  
+掘金：https://juejin.cn/user/1926000099460664  
+
+##### 郑宇琦( Enum )
+就职于中国科学院宁波工业技术研究院  
+微博：@提拉拉拉就是技术宅  
+小专栏：https://xiaozhuanlan.com/u/4890817253  
+
+##### halfrost
+饿了么 iOS 工程师 人称霜神，前端、后端、客户端都是高手  
+github：https://github.com/halfrost  
+知乎：https://www.zhihu.com/people/halfrost  
+小专栏：https://xiaozhuanlan.com/u/8354131294   
+
+##### Onetaway
+NGS iOS工程师， 曾就职于暴走漫画  
+github：https://github.com/Onetaway  
+知乎：https://www.zhihu.com/people/onet-away  
+
+##### 圣迪
+饿了么移动架构师。耕耘移动基础设施的建设，致力于移动大数据与人工智能的结合  
+简书：https://www.jianshu.com/u/a774b58c9b89  
+个人博客：https://www.cainwang.cn/  
+
+##### Alone_Monkey
+网易 iOS 工程师  
+github:https://github.com/AloneMonkey  
+简书：https://www.jianshu.com/u/0a821cdd025c  
+知乎：https://www.zhihu.com/people/AloneMonkey  
+个人博客：http://blog.alonemonkey.com/  
+
+##### mrriddler
+蚂蚁金服 iOS 工程师
+github：https://github.com/mrriddler/  
+  
+##### 涂耀辉
+今日头条 iOS 工程师  
+简书：https://www.jianshu.com/u/14431e509ae8  
+知乎：https://www.zhihu.com/people/tu-yao-hui-30  
+
+##### 冬瓜
+爱奇艺 iOS 工程师  
+小专栏：https://xiaozhuanlan.com/u/gua  
+微信公众号：一瓜技术  
+github：https://github.com/Desgard  
+
+##### mmoaay
+漫画作者/T沙龙上海创始人/SwiftGG翻译组MM/CSDN博客专家/阿里架构师菜叽/老司机
+微博：https://weibo.com/smmoaay?nick=%E7%94%BB%E6%B8%A3%E7%A8%8B%E5%BA%8F%E7%8C%BFmmoaay  
+小专栏：https://xiaozhuanlan.com/u/mmoaay  
+github:https://github.com/mmoaay  
+
 
 ### 大厂技术博客
 [苹果核（好久没更新了）](http://pingguohe.net/)  
