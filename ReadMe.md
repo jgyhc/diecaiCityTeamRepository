@@ -53,7 +53,7 @@ CSDN：https://blog.csdn.net/yiyaaixuexi
 公众号：MrPeakTech  
 
 ##### 故胤道长
-亚马逊 iOS 工程师，曾就职于 Uber 
+亚马逊 iOS 工程师，曾就职于 Uber  
 简书：https://www.jianshu.com/u/8d5b91490ca5  
 知乎：https://www.zhihu.com/people/soapyigu  
 微博：https://weibo.com/soapyigu  
