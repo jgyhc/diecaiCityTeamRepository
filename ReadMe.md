@@ -110,7 +110,7 @@ github：https://github.com/mrriddler/
 github：https://github.com/Desgard  
 
 ##### mmoaay
-漫画作者/T沙龙上海创始人/SwiftGG翻译组MM/CSDN博客专家/阿里架构师菜叽/老司机
+漫画作者/T沙龙上海创始人/SwiftGG翻译组MM/CSDN博客专家/阿里架构师菜叽/老司机  
 微博：https://weibo.com/smmoaay?nick=%E7%94%BB%E6%B8%A3%E7%A8%8B%E5%BA%8F%E7%8C%BFmmoaay  
 小专栏：https://xiaozhuanlan.com/u/mmoaay  
 github:https://github.com/mmoaay  
