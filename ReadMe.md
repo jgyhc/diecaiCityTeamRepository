@@ -125,8 +125,8 @@ TaioApp的作者
 
 
 ##### 张嘉夫
-iOS 独立开发者 / 生词本、Anki 备忘录作者
-知乎：https://www.zhihu.com/people/zhang-jia-fu-16
+iOS 独立开发者 / 生词本、Anki 备忘录作者  
+知乎：https://www.zhihu.com/people/zhang-jia-fu-16  
 简书：https://www.jianshu.com/u/d56910566910
 
 
