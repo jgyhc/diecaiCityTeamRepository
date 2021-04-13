@@ -115,6 +115,23 @@ github：https://github.com/Desgard
 小专栏：https://xiaozhuanlan.com/u/mmoaay  
 github:https://github.com/mmoaay  
 
+##### "YING ZHONG"
+TaioApp的作者
+微博：_YING_ZHONG
+
+
+##### 叶孤城__
+知乎：https://zhuanlan.zhihu.com/zangqilong
+
+
+##### 张嘉夫
+iOS 独立开发者 / 生词本、Anki 备忘录作者
+知乎：https://www.zhihu.com/people/zhang-jia-fu-16
+简书：https://www.jianshu.com/u/d56910566910
+
+
+
+
 
 ### 大厂技术博客
 [苹果核（好久没更新了）](http://pingguohe.net/)  
