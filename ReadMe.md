@@ -116,8 +116,9 @@ github：https://github.com/Desgard
 github:https://github.com/mmoaay  
 
 ##### "YING ZHONG"
-TaioApp的作者
-微博：_YING_ZHONG
+TaioApp的作者  
+微博：_YING_ZHONG  
+github：https://github.com/cyanzhong  
 
 
 ##### 叶孤城__
