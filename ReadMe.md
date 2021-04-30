@@ -2,6 +2,7 @@
 
 ### 面试题整理
 https://github.com/ChenYilong/iOSInterviewQuestions  
+https://github.com/lzyy/iOS-Developer-Interview-Questions  
 
 ### iOS大神们
 ##### Draveness
