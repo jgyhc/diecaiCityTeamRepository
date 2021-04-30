@@ -1,4 +1,8 @@
 ## 说明文档
+
+### 面试题整理
+https://github.com/ChenYilong/iOSInterviewQuestions  
+
 ### iOS大神们
 ##### Draveness
 个人博客：https://draven.co/  
@@ -131,10 +135,14 @@ iOS 独立开发者 / 生词本、Anki 备忘录作者
 简书：https://www.jianshu.com/u/d56910566910
 
 ##### indulgeIn(波儿菜)
-应该是来自美团  
+应该呆过自美团、腾讯  
 简书：https://www.jianshu.com/u/a89bf7b8bdd8  
 github：https://github.com/indulgeIn
 
+##### 黑超熊猫zuik
+阿里巴巴的iOS开发者   
+掘金：https://juejin.cn/user/2594503170727399  
+github：https://github.com/Zuikyo  
 
 ### 大厂技术博客
 [苹果核（好久没更新了）](http://pingguohe.net/)  
