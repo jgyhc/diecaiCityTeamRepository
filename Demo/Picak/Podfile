@@ -1,0 +1,52 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'Picak' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  
+#  source 'https://github.com/CocoaPods/Specs.git'
+
+  use_frameworks!
+
+  pod 'Alamofire'
+  pod 'SwiftyJSON'
+  pod 'ReachabilitySwift'
+
+  pod 'SwiftyFitsize'
+  pod 'SnapKit'
+
+  pod 'Kingfisher', '~> 6.0'
+  pod 'KingfisherWebP'
+
+  pod 'KeychainAccess'
+  pod 'Cache'
+
+  #OC--
+  pod 'YYText'
+  pod 'MJRefresh','3.2.0'
+  pod 'IBProperty/Basis'
+  pod 'SVProgressHUD'
+  pod 'JXCategoryView'
+  pod 'JXPagingView/Pager'
+  
+  # UM
+  pod 'UMCSecurityPlugins'
+  pod 'UMCCommon'
+
+  pod 'FBSDKCoreKit'
+  pod 'FBSDKLoginKit'
+  pod 'FBSDKShareKit'
+  pod 'UMCShare/Social/Facebook'
+
+  # Pods for Picak
+
+  target 'PicakTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'PicakUITests' do
+    # Pods for testing
+  end
+
+end
