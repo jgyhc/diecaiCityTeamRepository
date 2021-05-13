@@ -18,40 +18,6 @@ class PKQuoteConfiger: NSObject {
 
     class func getConfig(withImageSize size:CGSize, max:CGFloat, buttonRadis:CGFloat) -> PKQuoteConfig? {
         
-        /*
-         
-         CGFloat imageH = size.height;
-         CGFloat imageW = size.width;
-         CGFloat buttonRadius = NTWidthRatio(30);//实际25
-         CGFloat angle = atan(imageW / imageH);
-         CGFloat edgeW = buttonRadius * sin(angle);
-         CGFloat edgeH = buttonRadius * cos(angle);
-         CGRect outBounds = CGRectMake(0, 0, imageW + 2 * edgeW, imageH + 2 * edgeH);
-         CGFloat max = [UIScreen mainScreen].bounds.size.width / 2.0f;
-         CGFloat min = NTWidthRatio(60);
-         CGFloat scaleRadio = 1.0f;
-         if (imageW > imageH && imageW && imageW > max) {
-             scaleRadio = max / imageW;
-             CGFloat scaleH = scaleRadio * imageH;
-             if (scaleH < min) {
-                 scaleRadio = min / imageH;
-             }
-         }
-         if (imageH >= imageW && imageH > max) {
-     //        if (_associateModel.type == XWWatermarkTemplateTypeText) {
-     //            min = NTWidthRatio(30);
-     //        }
-             scaleRadio = max / imageH;
-             CGFloat scaleW = scaleRadio * imageW;
-             if (scaleW < min) {
-                 scaleRadio = min / imageW;
-             }
-         }
-         _outBounds = CGRectApplyAffineTransform(outBounds, CGAffineTransformMakeScale(scaleRadio, scaleRadio));
-         _angleForDiagonal = angle;
-         
-         */
-        
         let imageH = size.height
         let imageW = size.width
         

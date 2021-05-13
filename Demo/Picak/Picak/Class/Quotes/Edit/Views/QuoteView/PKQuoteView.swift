@@ -105,14 +105,6 @@ class PKQuoteView: UIView {
         if let _config = config  {
             self.bounds = _config.bounds
         }
-//        let endSize = ORPublicTool.or_getSize(withImage: image, maxSize: maxSize)
-//        let inset = PKQuoteSideView.sideWidth
-//        self.bounds = CGRect(x: 0, y: 0, width: endSize.width, height: endSize.height)
-//        imageView.image = image
-//        imageView.bounds = CGRect(x: 0, y: 0, width: endSize.width - inset, height: endSize.height - inset)
-//
-        
-        
     }
     
         
@@ -129,9 +121,6 @@ extension PKQuoteView {
     
     @objc private func action_tap(gesture:UITapGestureRecognizer) {
         willEdit()
-//        if let d = delegate {
-//            d.quoteDidTap(quote: self)
-//        }
     }
     
     @objc private func action_pinch(gesture:UIPinchGestureRecognizer) {
@@ -196,6 +185,11 @@ extension PKQuoteView {
     }
     
     private func willEdit() {
+        
+        guard selected == false else {
+            return
+        }
+        
         if let d = delegate {
             d.quoteWillEdit(quote: self)
         }
