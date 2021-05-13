@@ -11,7 +11,7 @@ import SwiftyJSON
 
 protocol PKMusicListControllerProtocol:class {
     func update()
-    func loadFailure()
+    func loadFailure(msg:String)
     func endRefreshWithNoMoreData()
 }
 
@@ -50,11 +50,23 @@ class PKMusicListPresenter: NSObject {
             
             self.isLoading = false
             
+            if let msg = error {
+                self.controller.loadFailure(msg: msg);
+                return
+            }
             if let d = data {
+
                 if self.page == 1 {
                     self.data.removeAll()
                 }
-                self.data.append(contentsOf: d.arrayValue)
+                if d.arrayValue.count == 0 {
+                    if self.page > 1  {
+                        self.controller.endRefreshWithNoMoreData()
+                        return
+                    }
+                }else {
+                    self.data.append(contentsOf: d.arrayValue)
+                }
             }
             
             self.controller.update()

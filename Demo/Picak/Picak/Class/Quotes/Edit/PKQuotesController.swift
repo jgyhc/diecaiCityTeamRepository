@@ -40,6 +40,8 @@ class PKQuotesController: UIViewController {
     
     override func viewWillDisappear(_ animated: Bool) {
         self.navigationController?.navigationBar.tintColor = UIColor.black
+        _timeLineView.changePlayState(false)
+        _contentView.changePlayState(false)
     }
     
     override func viewDidLoad() {

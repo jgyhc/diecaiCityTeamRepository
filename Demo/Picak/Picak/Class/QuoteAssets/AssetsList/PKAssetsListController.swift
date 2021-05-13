@@ -10,6 +10,7 @@ import SnapKit
 import JXCategoryView
 import MJRefresh
 import Kingfisher
+import SVProgressHUD
 
 class PKAssetsListController: UIViewController {
 
@@ -71,13 +72,15 @@ extension PKAssetsListController:PKAssetControllerProtocol {
         collectionView.reloadData()
     }
     
-    func loadFailure() {
+    func loadFailure(msg:String) {
         collectionView.mj_header.endRefreshing()
         collectionView.mj_footer.endRefreshing()
+        SVProgressHUD.showError(withStatus: msg)
     }
     
     func endRefreshWithNoMoreData() {
-        
+        let autoFooter:ORLoadMoreFooter = collectionView.mj_footer as! ORLoadMoreFooter
+        autoFooter.endRefreshingWithNoMoreData()
     }
     
     
@@ -109,6 +112,7 @@ extension PKAssetsListController:EWWaterFallLayoutDataSource {
     
     func waterFallLayout(_ waterFallLayout: EWWaterFallLayout!, heightForItemAtIndexPath indexPath: UInt, itemWidth: CGFloat) -> CGFloat {
         let da = presenter.data[Int(indexPath)]
+        
         return itemWidth / CGFloat(da["scale"].floatValue) + 24
     }
     

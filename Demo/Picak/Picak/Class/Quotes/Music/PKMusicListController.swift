@@ -66,13 +66,15 @@ extension PKMusicListController:PKMusicListControllerProtocol {
         tableView.reloadData()
     }
     
-    func loadFailure() {
+    func loadFailure(msg:String) {
         tableView.mj_header.endRefreshing()
         tableView.mj_footer.endRefreshing()
+        SVProgressHUD.showError(withStatus: msg)
     }
     
     func endRefreshWithNoMoreData() {
-        
+        let autoFooter:ORLoadMoreFooter = tableView.mj_footer as! ORLoadMoreFooter
+        autoFooter.endRefreshingWithNoMoreData()
     }
 }
 
