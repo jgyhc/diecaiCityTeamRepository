@@ -1,2 +1,7 @@
 # system ignore
 .DS_Store
+
+#CocoaPods
+Pods
+!Podfile
+!Podfile.lock
