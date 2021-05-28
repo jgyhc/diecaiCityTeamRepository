@@ -167,6 +167,8 @@ https://leetcode-cn.com/
 
 ### 常用工具
 [精品MAC应用分享](https://xclient.info/)  
+[macwk只收录精品Mac应用](https://www.macwk.com/)  
+[mac应用收集网站](https://www.macz.com/)  
 [史蒂芬周的博客](http://www.sdifen.com/)  
 [tools](https://u.tools/):你的生产力工具集，自由集成丰富插件，快速匹配「场景功能」，用完即走  
 [在线绘图工具processon](https://www.processon.com/):免费在线作图、实时协作，支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等  
